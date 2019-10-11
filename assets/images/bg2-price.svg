@@ -1,0 +1,30 @@
+<svg width="1440" height="893" viewbox="0 0 100% 100%" xmlns="http://www.w3.org/2000/svg" class="a">
+<style>
+  .a{
+    version:1;
+  }
+  .b{
+    fill-rule:evenodd;
+    fill:none;
+    stroke-width:1;
+    stroke:none;
+  }
+  .c{
+    fill:#333745;
+  }
+</style>
+  <#comment class="undefined"/>
+  <title class="undefined">
+    bg
+  </title>
+  <desc class="undefined">
+    Created with Sketch.
+  </desc>
+  <g id="Page-1" class="b">
+    <g id="Desktop-HD" class="c">
+      <g id="price-section" class="undefined">
+        <polygon id="bg" points="0 0 669.1 152.8 954 96.2 1440 279.3 1440 893 0 893" class="undefined"/>
+      </g>
+    </g>
+  </g>
+</svg>

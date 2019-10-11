@@ -1,0 +1,43 @@
+@media only screen and (min-width:768px){
+.caracteristicas{
+  margin: 0 auto;
+
+.grafico__animado{
+  left: 15rem;
+
+}
+}
+.animationgraph{
+animation: opacidad 4s ease-in-out 0s infinite;
+}
+@keyframes opacidad{
+0%{
+  opacity: 0;
+}
+80%{
+  opacity: 1;
+}
+100%{
+  opacity: 0;
+}
+}
+}
+@media only screen and (max-width:767px){
+  .grafico__animado{
+    left: 1rem;
+  }
+  .animationgraph{
+  animation: opacidad 4s ease-in-out 0s infinite;
+  }
+  @keyframes opacidad{
+  0%{
+    opacity: 0;
+  }
+  80%{
+    opacity: 1;
+  }
+  100%{
+    opacity: 0;
+  }
+  }
+}

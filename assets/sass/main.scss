@@ -1,0 +1,31 @@
+// Ingresa aquí todos los parciales a importar en este manifiesto.
+// Sigue el orden de carga propuesto a continuación para los @imports.
+
+// Abstracts
+@import 'abstracts/variables';
+@import 'abstracts/mixins';
+
+// Vendors
+@import 'vendors/bootstrap4_3/bootstrap';
+
+// Base
+@import 'base/reset';
+@import 'base/typography';
+
+
+// Layout
+@import 'layout/grid';
+@import 'layout/header';
+@import 'layout/navigations';
+@import 'layout/main';
+@import 'layout/cards';
+@import 'layout/footer';
+
+// // Components
+@import 'components/buttons';
+@import 'components/cards';
+@import 'components/navigations';
+
+// Page
+
+// Themes

@@ -1,0 +1,58 @@
+h1{
+  font-family: $raleway;
+  font-weight: $bold;
+  font-size: $xxx-large;
+  color: $raisingblack;
+}
+
+
+.footer{
+
+&__lista a{
+  font-family: $open;
+  color: $white;
+  font-size: $small;
+  font-weight: $regular;
+  }
+  &__reserver h6{
+    font-family: $open;
+    color: $white;
+    font-size: $small;
+    font-weight: $regular;  }
+
+}
+button{
+  color: $white;
+  font-family: $raleway;
+  font-size: $medium;
+  font-weight: $bold;
+  text-align: center;
+}
+
+h4{
+  font-family: $raleway;
+  font-size: $large;
+  font-weight: $regular;
+  text-align: center;
+}
+h5{
+  font-family: $raleway;
+  font-size: $xx-large;
+  font-weight: $bold;
+  text-align:  center;
+}
+li{
+  font-family: $raleway;
+  font-size: $medium;
+  font-weight: $regular;
+  text-align:  left;
+}
+h2{
+  text-align: center;
+  }
+  .navigation__item a{
+    font-family: $open;
+    color:$silverchalice;
+    font-size: $small;
+    font-weight: $regular;
+  }
